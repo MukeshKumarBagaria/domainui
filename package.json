@@ -1,7 +1,7 @@
 {
-  "name": "domain-quote-reseller",
+  "name": "domainui",
   "version": "1.0.0",
-  "description": "A React component for domain name quotation requests",
+  "description": "A React component to design beautiful UI for domain name quotation requests",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -18,7 +18,7 @@
     "component",
     "resend"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Mukesh Bagaria <mkbagaria13@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/domain-quote-reseller.git"
+    "url": "git+https://github.com/MukeshKumarBagaria/domainui.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/domain-quote-reseller/issues"
+    "url": "https://github.com/MukeshKumarBagaria/domainui/issues"
   },
-  "homepage": "https://github.com/yourusername/domain-quote-reseller#readme"
+  "homepage": "https://github.com/MukeshKumarBagaria/domainui#readme"
 }

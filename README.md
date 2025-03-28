@@ -1,6 +1,6 @@
-# Domain Quote Reseller Component
+# DomainUI
 
-A React component for domain name reselling that allows potential buyers to submit quotation requests for domain names. The component sends email notifications to the domain seller using the Resend API.
+A React component to design beautiful UI for domain name quotation requests.
 
 ## Features
 
@@ -15,7 +15,7 @@ A React component for domain name reselling that allows potential buyers to subm
 ## Installation
 
 ```bash
-npm install domain-quote-reseller
+npm install domainui
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ npm install domain-quote-reseller
 
 ```jsx
 import React from 'react';
-import { DomainQuoteForm } from 'domain-quote-reseller';
+import { DomainQuoteForm } from 'domainui';
 
 function App() {
   return (
